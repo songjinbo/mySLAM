@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libstereoMatching.a  CMakeFiles/stereoMatching.dir/stereoMatching.cpp.o
+/usr/bin/ranlib ../lib/libstereoMatching.a

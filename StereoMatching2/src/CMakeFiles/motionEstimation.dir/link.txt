@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libmotionEstimation.a  CMakeFiles/motionEstimation.dir/motionEstimation.cpp.o
+/usr/bin/ranlib ../lib/libmotionEstimation.a

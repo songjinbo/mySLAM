@@ -1,0 +1,42 @@
+读取第1帧
+Too close,not a keyframe.
+读取第2帧
+This is a keyframe.
+读取第3帧
+Too close,not a keyframe.
+读取第4帧
+This is a keyframe.
+读取第5帧
+Too close,not a keyframe.
+读取第6帧
+This is a keyframe.
+读取第7帧
+Too close,not a keyframe.
+读取第8帧
+This is a keyframe.
+读取第9帧
+Too close,not a keyframe.
+读取第10帧
+This is a keyframe.
+读取第11帧
+Too close,not a keyframe.
+读取第12帧
+This is a keyframe.
+读取第13帧
+Too close,not a keyframe.
+读取第14帧
+This is a keyframe.
+读取第15帧
+This is a keyframe.
+读取第16帧
+This is a keyframe.
+读取第17帧
+This is a keyframe.
+读取第18帧
+This is a keyframe.
+读取第19帧
+This is a keyframe.
+optimizing pose graph, vertices: 13
+Optimization done.
+saving the point cloud map...
+Final map is saved.

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libpseudocolor.a  CMakeFiles/pseudocolor.dir/pseudocolor.cpp.o
+/usr/bin/ranlib ../lib/libpseudocolor.a

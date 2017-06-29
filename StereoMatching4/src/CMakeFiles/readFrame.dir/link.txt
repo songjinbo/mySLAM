@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libreadFrame.a  CMakeFiles/readFrame.dir/readFrame.cpp.o
+/usr/bin/ranlib ../lib/libreadFrame.a

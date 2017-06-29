@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libgeneratePointCloud.a  CMakeFiles/generatePointCloud.dir/generatePointCloud.cpp.o
+/usr/bin/ranlib ../lib/libgeneratePointCloud.a

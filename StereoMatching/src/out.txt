@@ -1,0 +1,96 @@
+../data/corner/left_2.png不存在
+../data/corner/left_3.png不存在
+../data/corner/left_4.png不存在
+../data/corner/left_5.png不存在
+读取第6帧
+This is a keyframe.
+读取第7帧
+Too close,not a keyframe.
+读取第8帧
+This is a keyframe.
+读取第9帧
+Too close,not a keyframe.
+读取第10帧
+This is a keyframe.
+读取第11帧
+This is a keyframe.
+读取第12帧
+This is a keyframe.
+读取第13帧
+This is a keyframe.
+读取第14帧
+This is a keyframe.
+读取第15帧
+This is a keyframe.
+读取第16帧
+This is a keyframe.
+读取第17帧
+This is a keyframe.
+读取第18帧
+This is a keyframe.
+读取第19帧
+Too close,not a keyframe.
+读取第20帧
+This is a keyframe.
+读取第21帧
+This is a keyframe.
+读取第22帧
+This is a keyframe.
+读取第23帧
+This is a keyframe.
+读取第24帧
+This is a keyframe.
+读取第25帧
+This is a keyframe.
+读取第26帧
+This is a keyframe.
+读取第27帧
+This is a keyframe.
+读取第28帧
+This is a keyframe.
+读取第29帧
+This is a keyframe.
+读取第30帧
+This is a keyframe.
+读取第31帧
+This is a keyframe.
+读取第32帧
+This is a keyframe.
+读取第33帧
+This is a keyframe.
+读取第34帧
+This is a keyframe.
+读取第35帧
+This is a keyframe.
+读取第36帧
+This is a keyframe.
+读取第37帧
+This is a keyframe.
+读取第38帧
+This is a keyframe.
+读取第39帧
+This is a keyframe.
+读取第40帧
+This is a keyframe.
+读取第41帧
+This is a keyframe.
+读取第42帧
+This is a keyframe.
+读取第43帧
+Not enough inliers.
+读取第44帧
+Not enough inliers.
+读取第45帧
+Not enough inliers.
+读取第46帧
+Not enough inliers.
+读取第47帧
+Not enough inliers.
+读取第48帧
+Not enough inliers.
+读取第49帧
+Not enough inliers.
+optimizing pose graph, vertices: 35
+Optimization done.
+saving the point cloud map...
+Final map is saved.

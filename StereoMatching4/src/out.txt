@@ -1,0 +1,2720 @@
+../data/corner/left_2.png不存在
+../data/corner/left_3.png不存在
+../data/corner/left_4.png不存在
+../data/corner/left_5.png不存在
+读取第6帧
+the size of pts_obj is : 179
+the number of inliers is : 165
+norm = 0.042189
+不是关键帧
+读取第7帧
+the size of pts_obj is : 116
+the number of inliers is : 116
+norm = 0.0335907
+不是关键帧
+读取第8帧
+the size of pts_obj is : 102
+the number of inliers is : 102
+norm = 0.0327322
+不是关键帧
+读取第9帧
+the size of pts_obj is : 140
+the number of inliers is : 140
+norm = 0.029768
+不是关键帧
+读取第10帧
+the size of pts_obj is : 49
+the number of inliers is : 49
+norm = 0.0409336
+不是关键帧
+读取第11帧
+the size of pts_obj is : 173
+the number of inliers is : 172
+norm = 0.0481031
+不是关键帧
+读取第12帧
+the size of pts_obj is : 186
+the number of inliers is : 185
+norm = 0.0583775
+T =     0.998771    0.0439216   -0.0229559 -0.000629991
+  -0.0442282     0.998937   -0.0130229   -0.0226677
+   0.0223595    0.0140222     0.999652  0.000911778
+           0            0            0            1
+读取第13帧
+the size of pts_obj is : 177
+the number of inliers is : 177
+norm = 0.0216159
+不是关键帧
+读取第14帧
+the size of pts_obj is : 159
+the number of inliers is : 159
+norm = 0.03803
+不是关键帧
+读取第15帧
+the size of pts_obj is : 175
+the number of inliers is : 175
+norm = 0.0581345
+T =     0.999072     0.039905   -0.0162187  -0.00147955
+  -0.0395217     0.998947    0.0233056   -0.0166818
+   0.0171316    -0.022643     0.999597 -0.000501695
+           0            0            0            1
+读取第16帧
+the size of pts_obj is : 198
+the number of inliers is : 197
+norm = 0.0132464
+不是关键帧
+读取第17帧
+the size of pts_obj is : 95
+the number of inliers is : 95
+norm = 0.0279853
+不是关键帧
+读取第18帧
+the size of pts_obj is : 211
+the number of inliers is : 206
+norm = 0.0471693
+不是关键帧
+读取第19帧
+the size of pts_obj is : 211
+the number of inliers is : 206
+norm = 0.0471693
+不是关键帧
+读取第20帧
+the size of pts_obj is : 170
+the number of inliers is : 170
+norm = 0.0620594
+T =     0.999995 -0.000364328   -0.0032614  -0.00331267
+ 0.000230917     0.999167   -0.0408132  -0.00326839
+  0.00327355    0.0408122     0.999161 -0.000806358
+           0            0            0            1
+读取第21帧
+the size of pts_obj is : 100
+the number of inliers is : 100
+norm = 0.0142643
+不是关键帧
+读取第22帧
+the size of pts_obj is : 119
+the number of inliers is : 119
+norm = 0.0387384
+不是关键帧
+读取第23帧
+the size of pts_obj is : 210
+the number of inliers is : 209
+norm = 0.0742475
+T =    0.998902   0.0355499  -0.0305138 -0.00115143
+ -0.0345058    0.998823   0.0340872  -0.0311189
+  0.0316896  -0.0329969    0.998953 -0.00229034
+          0           0           0           1
+读取第24帧
+the size of pts_obj is : 55
+the number of inliers is : 55
+norm = 0.0284414
+不是关键帧
+读取第25帧
+the size of pts_obj is : 136
+the number of inliers is : 136
+norm = 0.0510354
+T =      0.99933   0.00504536   -0.0362506 -0.000185568
+ -0.00550184     0.999907   -0.0125037   -0.0362264
+   0.0361842    0.0126947     0.999265   -0.0012913
+           0            0            0            1
+读取第26帧
+the size of pts_obj is : 161
+the number of inliers is : 161
+norm = 0.0210053
+不是关键帧
+读取第27帧
+the size of pts_obj is : 194
+the number of inliers is : 193
+norm = 0.0426491
+不是关键帧
+读取第28帧
+the size of pts_obj is : 189
+the number of inliers is : 184
+norm = 0.0472112
+不是关键帧
+读取第29帧
+the size of pts_obj is : 196
+the number of inliers is : 196
+norm = 0.0493422
+不是关键帧
+读取第30帧
+the size of pts_obj is : 187
+the number of inliers is : 179
+norm = 0.0730081
+T =     0.999023   -0.0440141   0.00392348 -0.000695875
+   0.0439871      0.99901   0.00670925   0.00407054
+ -0.00421489  -0.00653011      0.99997   -0.0032258
+           0            0            0            1
+读取第31帧
+the size of pts_obj is : 145
+the number of inliers is : 144
+norm = 0.0341149
+不是关键帧
+读取第32帧
+the size of pts_obj is : 171
+the number of inliers is : 168
+norm = 0.0358733
+不是关键帧
+读取第33帧
+the size of pts_obj is : 83
+the number of inliers is : 81
+norm = 0.0465204
+不是关键帧
+读取第34帧
+the size of pts_obj is : 123
+the number of inliers is : 121
+norm = 0.0536445
+T =    0.999871  -0.0143503  0.00720625 -0.00633968
+    0.01451    0.999639   -0.022631  0.00704348
+-0.00687889   0.0227326    0.999718 -0.00280659
+          0           0           0           1
+读取第35帧
+the size of pts_obj is : 146
+the number of inliers is : 146
+norm = 0.0177766
+不是关键帧
+读取第36帧
+the size of pts_obj is : 115
+the number of inliers is : 114
+norm = 0.0465406
+不是关键帧
+读取第37帧
+the size of pts_obj is : 191
+the number of inliers is : 190
+norm = 0.0725132
+T =    0.999992  0.00248538 -0.00318011 -0.00214234
+-0.00230311    0.998423   0.0560887 -0.00324901
+ 0.00331449  -0.0560809    0.998421 -0.00239669
+          0           0           0           1
+读取第38帧
+the size of pts_obj is : 143
+the number of inliers is : 143
+norm = 0.0200371
+不是关键帧
+读取第39帧
+the size of pts_obj is : 157
+the number of inliers is : 148
+norm = 0.0522659
+T =    0.999674  -0.0230674  -0.0109305 -0.00023806
+  0.0227443    0.999326  -0.0288174  -0.0112619
+  0.0115878   0.0285594    0.999525 -0.00268399
+          0           0           0           1
+读取第40帧
+the size of pts_obj is : 117
+the number of inliers is : 114
+norm = 0.0247196
+不是关键帧
+读取第41帧
+the size of pts_obj is : 173
+the number of inliers is : 171
+norm = 0.0430536
+不是关键帧
+../data/corner/left_42.png不存在
+读取第43帧
+the size of pts_obj is : 134
+the number of inliers is : 134
+norm = 0.0645348
+T =     0.99936   0.0141406   0.0328683 -0.00109138
+ -0.0148129    0.999684   0.0203005   0.0327289
+ -0.0325709  -0.0207744    0.999254 -0.00596799
+          0           0           0           1
+读取第44帧
+the size of pts_obj is : 125
+the number of inliers is : 124
+norm = 0.0299272
+不是关键帧
+读取第45帧
+the size of pts_obj is : 86
+the number of inliers is : 86
+norm = 0.028629
+不是关键帧
+读取第46帧
+the size of pts_obj is : 155
+the number of inliers is : 155
+norm = 0.0354906
+不是关键帧
+读取第47帧
+the size of pts_obj is : 151
+the number of inliers is : 151
+norm = 0.0369771
+不是关键帧
+读取第48帧
+the size of pts_obj is : 188
+the number of inliers is : 187
+norm = 0.0517524
+T =    0.999919   0.0124399 -0.00268998 -0.00019888
+ -0.0124871    0.999754  -0.0183352 -0.00257582
+ 0.00246123   0.0183673    0.999828 -0.00122798
+          0           0           0           1
+读取第49帧
+the size of pts_obj is : 167
+the number of inliers is : 167
+norm = 0.0356376
+不是关键帧
+读取第50帧
+the size of pts_obj is : 121
+the number of inliers is : 121
+norm = 0.0700896
+T =     0.998811      0.01914   -0.0448408  -0.00483511
+  -0.0191178     0.999817  0.000923111   -0.0448633
+   0.0448502 -6.47545e-05     0.998994  -0.00403554
+           0            0            0            1
+读取第51帧
+the size of pts_obj is : 365
+the number of inliers is : 365
+norm = 2.19027e-08
+不是关键帧
+读取第52帧
+the size of pts_obj is : 124
+the number of inliers is : 123
+norm = 0.0516709
+T =    0.999111  0.00197811  -0.0421035 0.000486764
+-0.00228011    0.999972 -0.00712602  -0.0421087
+  0.0420882  0.00721569    0.999088  0.00116376
+          0           0           0           1
+读取第53帧
+the size of pts_obj is : 127
+the number of inliers is : 127
+norm = 0.0182208
+不是关键帧
+读取第54帧
+the size of pts_obj is : 21
+the number of inliers is : 21
+norm = 0.022622
+不是关键帧
+读取第55帧
+the size of pts_obj is : 89
+the number of inliers is : 89
+norm = 0.0405114
+不是关键帧
+读取第56帧
+the size of pts_obj is : 126
+the number of inliers is : 126
+norm = 0.0620027
+T =     0.999308   -0.0338483    0.0154167   -0.0016433
+   0.0338673     0.999426 -0.000970652    0.0153994
+   -0.015375    0.0014921     0.999881  -0.00237169
+           0            0            0            1
+读取第57帧
+the size of pts_obj is : 103
+the number of inliers is : 103
+norm = 0.0180961
+不是关键帧
+读取第58帧
+the size of pts_obj is : 115
+the number of inliers is : 114
+norm = 0.0404382
+不是关键帧
+读取第59帧
+the size of pts_obj is : 147
+the number of inliers is : 147
+norm = 0.0424542
+不是关键帧
+读取第60帧
+the size of pts_obj is : 122
+the number of inliers is : 121
+norm = 0.0374684
+不是关键帧
+读取第61帧
+the size of pts_obj is : 87
+the number of inliers is : 87
+norm = 0.0381917
+不是关键帧
+读取第62帧
+the size of pts_obj is : 106
+the number of inliers is : 104
+norm = 0.060983
+T =    0.999669  0.00924139   -0.023991   0.0072961
+-0.00927225    0.999956 -0.00117564  -0.0239877
+  0.0239791   0.0013977    0.999711 -0.00434884
+          0           0           0           1
+读取第63帧
+the size of pts_obj is : 140
+the number of inliers is : 140
+norm = 0.0188574
+不是关键帧
+读取第64帧
+the size of pts_obj is : 93
+the number of inliers is : 93
+norm = 0.0326092
+不是关键帧
+读取第65帧
+the size of pts_obj is : 83
+the number of inliers is : 83
+norm = 0.0298909
+不是关键帧
+读取第66帧
+the size of pts_obj is : 56
+the number of inliers is : 56
+norm = 0.0265791
+不是关键帧
+读取第67帧
+the size of pts_obj is : 96
+the number of inliers is : 96
+norm = 0.0611251
+T =     0.999728 -0.000541575    0.0233304 -0.000301075
+ 0.000926203     0.999864   -0.0164784    0.0233276
+  -0.0233183    0.0164955     0.999592  -0.00344689
+           0            0            0            1
+读取第68帧
+the size of pts_obj is : 104
+the number of inliers is : 104
+norm = 0.0301318
+不是关键帧
+读取第69帧
+the size of pts_obj is : 71
+the number of inliers is : 71
+norm = 0.039202
+不是关键帧
+读取第70帧
+the size of pts_obj is : 134
+the number of inliers is : 134
+norm = 0.0459445
+不是关键帧
+读取第71帧
+the size of pts_obj is : 73
+the number of inliers is : 73
+norm = 0.0549046
+T =    0.999653 -0.00943104   0.0245969 -0.00267964
+ 0.00979718    0.999842  -0.0148082   0.0245288
+ -0.0244533    0.015044    0.999588 0.000947145
+          0           0           0           1
+读取第72帧
+the size of pts_obj is : 39
+the number of inliers is : 39
+norm = 0.0135396
+不是关键帧
+读取第73帧
+the size of pts_obj is : 87
+the number of inliers is : 87
+norm = 0.0227611
+不是关键帧
+读取第74帧
+the size of pts_obj is : 121
+the number of inliers is : 121
+norm = 0.031887
+不是关键帧
+读取第75帧
+the size of pts_obj is : 78
+the number of inliers is : 78
+norm = 0.0416128
+不是关键帧
+读取第76帧
+the size of pts_obj is : 78
+the number of inliers is : 78
+norm = 0.0416128
+不是关键帧
+读取第77帧
+the size of pts_obj is : 110
+the number of inliers is : 108
+norm = 0.0566573
+T =     0.999923  0.000514925   -0.0124102   0.00257741
+-0.000717876     0.999866   -0.0163547    -0.012406
+   0.0124001    0.0163623     0.999789  -0.00270597
+           0            0            0            1
+读取第78帧
+the size of pts_obj is : 22
+the number of inliers is : 22
+norm = 0.0174793
+不是关键帧
+读取第79帧
+the size of pts_obj is : 106
+the number of inliers is : 105
+norm = 0.0355005
+不是关键帧
+读取第80帧
+the size of pts_obj is : 95
+the number of inliers is : 94
+norm = 0.0376334
+不是关键帧
+读取第81帧
+the size of pts_obj is : 90
+the number of inliers is : 89
+norm = 0.0517493
+T =     0.99972  -0.0090544   0.0218517 -0.00337164
+ 0.00876028     0.99987   0.0135179   0.0219142
+ -0.0219713  -0.0133227     0.99967 -0.00079473
+          0           0           0           1
+读取第82帧
+the size of pts_obj is : 116
+the number of inliers is : 116
+norm = 0.0239485
+不是关键帧
+读取第83帧
+the size of pts_obj is : 96
+the number of inliers is : 96
+norm = 0.0220462
+不是关键帧
+读取第84帧
+the size of pts_obj is : 68
+the number of inliers is : 68
+norm = 0.0326231
+不是关键帧
+读取第85帧
+the size of pts_obj is : 79
+the number of inliers is : 79
+norm = 0.0457292
+不是关键帧
+读取第86帧
+the size of pts_obj is : 129
+the number of inliers is : 124
+norm = 0.0598075
+T =   0.999545  0.0174533 -0.0245892  0.0054995
+ -0.017803   0.999742  -0.014073 -0.0244678
+ 0.0243373  0.0145043   0.999599 -0.0013346
+         0          0          0          1
+读取第87帧
+the size of pts_obj is : 55
+the number of inliers is : 55
+norm = 0.0202787
+不是关键帧
+读取第88帧
+the size of pts_obj is : 92
+the number of inliers is : 92
+norm = 0.0356984
+不是关键帧
+读取第89帧
+the size of pts_obj is : 112
+the number of inliers is : 111
+norm = 0.0443416
+不是关键帧
+读取第90帧
+the size of pts_obj is : 100
+the number of inliers is : 97
+norm = 0.046965
+不是关键帧
+读取第91帧
+the size of pts_obj is : 101
+the number of inliers is : 94
+norm = 0.0601894
+T =     0.999901    0.0120939  -0.00721955 -0.000626245
+  -0.0122709     0.999612   -0.0249868  -0.00706803
+  0.00691456    0.0250729     0.999662  -0.00181687
+           0            0            0            1
+读取第92帧
+the size of pts_obj is : 67
+the number of inliers is : 67
+norm = 0.0190072
+不是关键帧
+读取第93帧
+the size of pts_obj is : 82
+the number of inliers is : 82
+norm = 0.0404028
+不是关键帧
+读取第94帧
+the size of pts_obj is : 79
+the number of inliers is : 79
+norm = 0.0640528
+T =     0.999058   -0.0429573  -0.00607057 -0.000759785
+   0.0430721     0.998867    0.0202546  -0.00563425
+  0.00519361    -0.020497     0.999776  0.000702599
+           0            0            0            1
+读取第95帧
+the size of pts_obj is : 43
+the number of inliers is : 43
+norm = 0.0153906
+不是关键帧
+读取第96帧
+the size of pts_obj is : 36
+the number of inliers is : 36
+norm = 0.030534
+不是关键帧
+读取第97帧
+the size of pts_obj is : 101
+the number of inliers is : 100
+norm = 0.0396104
+不是关键帧
+读取第98帧
+the size of pts_obj is : 76
+the number of inliers is : 74
+norm = 0.0588463
+T =     0.999854    0.0171048  9.83731e-05   0.00150224
+  -0.0170994     0.999356    0.0315488 -0.000171513
+ 0.000441325   -0.0315458     0.999502  -0.00285206
+           0            0            0            1
+读取第99帧
+the size of pts_obj is : 63
+the number of inliers is : 63
+norm = 0.0296783
+不是关键帧
+读取第100帧
+the size of pts_obj is : 95
+the number of inliers is : 94
+norm = 0.0321748
+不是关键帧
+读取第101帧
+the size of pts_obj is : 95
+the number of inliers is : 92
+norm = 0.0511727
+T =    0.999678  -0.0112861  -0.0227177  0.00220657
+  0.0107852    0.999699  -0.0220542   -0.022843
+  0.0229597   0.0218021    0.999499 -0.00300539
+          0           0           0           1
+读取第102帧
+the size of pts_obj is : 66
+the number of inliers is : 66
+norm = 0.0200537
+不是关键帧
+读取第103帧
+the size of pts_obj is : 93
+the number of inliers is : 92
+norm = 0.0507143
+T =    0.999663   0.0255804  0.00435279 -0.00293647
+ -0.0256769    0.999387     0.02379  0.00404801
+-0.00374156  -0.0238938    0.999708 -0.00362385
+          0           0           0           1
+读取第104帧
+the size of pts_obj is : 51
+the number of inliers is : 51
+norm = 0.0134537
+不是关键帧
+读取第105帧
+the size of pts_obj is : 90
+the number of inliers is : 88
+norm = 0.0338776
+不是关键帧
+读取第106帧
+the size of pts_obj is : 88
+the number of inliers is : 88
+norm = 0.0385965
+不是关键帧
+读取第107帧
+the size of pts_obj is : 74
+the number of inliers is : 71
+norm = 0.0449246
+不是关键帧
+读取第108帧
+the size of pts_obj is : 111
+the number of inliers is : 101
+norm = 0.0556234
+T =    0.999671  -0.0227766   0.0118299 -0.00245869
+  0.0227941    0.999739 -0.00134666   0.0118143
+ -0.0117961  0.00161587    0.999929 -0.00345547
+          0           0           0           1
+读取第109帧
+the size of pts_obj is : 49
+the number of inliers is : 49
+norm = 0.0116926
+不是关键帧
+读取第110帧
+the size of pts_obj is : 22
+the number of inliers is : 22
+norm = 0.0225393
+不是关键帧
+读取第111帧
+the size of pts_obj is : 85
+the number of inliers is : 84
+norm = 0.0377151
+不是关键帧
+读取第112帧
+the size of pts_obj is : 59
+the number of inliers is : 54
+norm = 0.0560136
+T =    0.999511   0.0184526  -0.0252359  0.00407882
+ -0.0179392    0.999631   0.0204187  -0.0254255
+  0.0256034  -0.0199561    0.999473 -0.00159148
+          0           0           0           1
+读取第113帧
+the size of pts_obj is : 15
+the number of inliers is : 15
+norm = 0.0115902
+不是关键帧
+读取第114帧
+the size of pts_obj is : 15
+the number of inliers is : 15
+norm = 0.0115902
+不是关键帧
+读取第115帧
+the size of pts_obj is : 88
+the number of inliers is : 81
+norm = 0.0314978
+不是关键帧
+读取第116帧
+the size of pts_obj is : 64
+the number of inliers is : 59
+norm = 0.0301563
+不是关键帧
+读取第117帧
+the size of pts_obj is : 64
+the number of inliers is : 58
+norm = 0.0378852
+不是关键帧
+读取第118帧
+the size of pts_obj is : 86
+the number of inliers is : 76
+norm = 0.055082
+T =    0.999812  0.00398147    0.019002  0.00556106
+-0.00383005    0.999961 -0.00799807    0.019019
+ -0.0190331  0.00792378    0.999787   0.0014137
+          0           0           0           1
+读取第119帧
+the size of pts_obj is : 65
+the number of inliers is : 65
+norm = 0.011678
+不是关键帧
+读取第120帧
+the size of pts_obj is : 74
+the number of inliers is : 70
+norm = 0.0335419
+不是关键帧
+读取第121帧
+the size of pts_obj is : 98
+the number of inliers is : 87
+norm = 0.046238
+不是关键帧
+读取第122帧
+the size of pts_obj is : 60
+the number of inliers is : 51
+norm = 0.0680743
+T =     0.99953  0.00745016   0.0297514 -0.00692952
+-0.00660496    0.999575  -0.0284067   0.0298596
+ -0.0299504   0.0281968    0.999154   0.0136138
+          0           0           0           1
+读取第123帧
+the size of pts_obj is : 98
+the number of inliers is : 98
+norm = 0.0201105
+不是关键帧
+读取第124帧
+the size of pts_obj is : 85
+the number of inliers is : 79
+norm = 0.0277408
+不是关键帧
+读取第125帧
+the size of pts_obj is : 38
+the number of inliers is : 37
+norm = 0.0420153
+不是关键帧
+读取第126帧
+the size of pts_obj is : 35
+the number of inliers is : 33
+norm = 0.0455263
+不是关键帧
+读取第127帧
+the size of pts_obj is : 117
+the number of inliers is : 99
+norm = 0.0712851
+T =     0.99925   0.0110143  -0.0371329 -0.00229515
+ -0.0108286    0.999928  0.00519802  -0.0371696
+  0.0371875 -0.00479202    0.999297 -0.00709593
+          0           0           0           1
+读取第128帧
+the size of pts_obj is : 46
+the number of inliers is : 46
+norm = 0.0232534
+不是关键帧
+读取第129帧
+the size of pts_obj is : 58
+the number of inliers is : 56
+norm = 0.0321151
+不是关键帧
+读取第130帧
+the size of pts_obj is : 43
+the number of inliers is : 43
+norm = 0.078132
+T =     0.99886  -0.0293227   0.0376652 -0.00476449
+  0.0283274    0.999242   0.0266947   0.0380611
+ -0.0384194  -0.0255973    0.998934  -0.0108654
+          0           0           0           1
+读取第131帧
+the size of pts_obj is : 34
+the number of inliers is : 34
+norm = 0.023792
+不是关键帧
+读取第132帧
+the size of pts_obj is : 78
+the number of inliers is : 75
+norm = 0.0287082
+不是关键帧
+读取第133帧
+the size of pts_obj is : 86
+the number of inliers is : 82
+norm = 0.055222
+T =    0.999571 0.000828696   0.0292765 -0.00818473
+-0.00116781    0.999932   0.0115679   0.0292756
+  -0.029265  -0.0115971    0.999504 -0.00244474
+          0           0           0           1
+读取第134帧
+the size of pts_obj is : 20
+the number of inliers is : 20
+norm = 0.012312
+不是关键帧
+读取第135帧
+the size of pts_obj is : 86
+the number of inliers is : 85
+norm = 0.0214485
+不是关键帧
+读取第136帧
+the size of pts_obj is : 80
+the number of inliers is : 76
+norm = 0.0413193
+不是关键帧
+读取第137帧
+the size of pts_obj is : 80
+the number of inliers is : 76
+norm = 0.0623918
+T =      0.99971    0.0240504  -0.00111004  -0.00460294
+   -0.024069     0.999468   -0.0220079 -0.000845243
+ 0.000580148    0.0220283     0.999757   0.00443494
+           0            0            0            1
+读取第138帧
+the size of pts_obj is : 72
+the number of inliers is : 68
+norm = 0.0214135
+不是关键帧
+读取第139帧
+the size of pts_obj is : 89
+the number of inliers is : 83
+norm = 0.0417151
+不是关键帧
+../data/corner/left_140.png不存在
+读取第141帧
+the size of pts_obj is : 83
+the number of inliers is : 71
+norm = 0.064724
+T =   0.999557  0.0128558 -0.0268495  0.0098587
+-0.0133725   0.999727 -0.0191578 -0.0267283
+ 0.0265959  0.0195084   0.999456 0.00946477
+         0          0          0          1
+读取第142帧
+the size of pts_obj is : 62
+the number of inliers is : 59
+norm = 0.029009
+不是关键帧
+读取第143帧
+the size of pts_obj is : 74
+the number of inliers is : 67
+norm = 0.0847339
+T =    0.999464  0.00392347   0.0324963  0.00423401
+-0.00595669    0.998014   0.0627092   0.0323681
+ -0.0321857  -0.0628691    0.997503 -0.00390333
+          0           0           0           1
+读取第144帧
+the size of pts_obj is : 102
+the number of inliers is : 97
+norm = 0.0318342
+不是关键帧
+读取第145帧
+the size of pts_obj is : 60
+the number of inliers is : 58
+norm = 0.0557321
+T =     0.999951   -0.0098527 -0.000235414  2.75517e-05
+  0.00983523     0.999141   -0.0402657   -0.0004338
+ 0.000631938    0.0402615     0.999189 -0.000819062
+           0            0            0            1
+读取第146帧
+the size of pts_obj is : 38
+the number of inliers is : 38
+norm = 0.0155385
+不是关键帧
+读取第147帧
+the size of pts_obj is : 38
+the number of inliers is : 38
+norm = 0.0155385
+不是关键帧
+读取第148帧
+the size of pts_obj is : 51
+the number of inliers is : 46
+norm = 0.039043
+不是关键帧
+读取第149帧
+the size of pts_obj is : 51
+the number of inliers is : 45
+norm = 0.0556124
+T =    0.999645 -0.00732543  -0.0256122  0.00759293
+  0.0070911    0.999932   -0.009228  -0.0256485
+  0.0256781   0.0090431    0.999629 -0.00570251
+          0           0           0           1
+读取第150帧
+the size of pts_obj is : 77
+the number of inliers is : 74
+norm = 0.0469127
+不是关键帧
+读取第151帧
+the size of pts_obj is : 66
+the number of inliers is : 63
+norm = 0.0598647
+T =    0.999174 -0.00489499  -0.0403424  0.00718436
+ 0.00405224    0.999772  -0.0209453  -0.0404031
+  0.0404357   0.0207645    0.998966 0.000728057
+          0           0           0           1
+读取第152帧
+the size of pts_obj is : 19
+the number of inliers is : 19
+norm = 0.0331863
+不是关键帧
+读取第153帧
+the size of pts_obj is : 77
+the number of inliers is : 74
+norm = 0.0301748
+不是关键帧
+读取第154帧
+the size of pts_obj is : 77
+the number of inliers is : 74
+norm = 0.0301748
+不是关键帧
+读取第155帧
+the size of pts_obj is : 51
+the number of inliers is : 46
+norm = 0.0481262
+不是关键帧
+读取第156帧
+the size of pts_obj is : 50
+the number of inliers is : 46
+norm = 0.0699545
+T =    0.999281 -0.00707085   0.0372557 -0.00469657
+ 0.00671939    0.999932   0.0095507   0.0372976
+ -0.0373206  -0.0092935     0.99926 -0.00299048
+          0           0           0           1
+读取第157帧
+the size of pts_obj is : 37
+the number of inliers is : 37
+norm = 0.0162103
+不是关键帧
+读取第158帧
+the size of pts_obj is : 106
+the number of inliers is : 102
+norm = 0.0307258
+不是关键帧
+读取第159帧
+the size of pts_obj is : 98
+the number of inliers is : 94
+norm = 0.0478769
+不是关键帧
+读取第160帧
+the size of pts_obj is : 60
+the number of inliers is : 56
+norm = 0.0499522
+不是关键帧
+读取第161帧
+the size of pts_obj is : 93
+the number of inliers is : 76
+norm = 0.0551802
+T =     0.999693    0.0234564  -0.00797386  -0.00126953
+  -0.0235315     0.999678  -0.00946321  -0.00786251
+  0.00774932   0.00964794     0.999923 -0.000722773
+           0            0            0            1
+读取第162帧
+the size of pts_obj is : 56
+the number of inliers is : 56
+norm = 0.0173239
+不是关键帧
+读取第163帧
+the size of pts_obj is : 86
+the number of inliers is : 85
+norm = 0.0420714
+不是关键帧
+读取第164帧
+the size of pts_obj is : 67
+the number of inliers is : 67
+norm = 0.0348093
+不是关键帧
+读取第165帧
+the size of pts_obj is : 106
+the number of inliers is : 102
+norm = 0.0372259
+不是关键帧
+读取第166帧
+the size of pts_obj is : 106
+the number of inliers is : 94
+norm = 0.0459444
+不是关键帧
+读取第167帧
+the size of pts_obj is : 93
+the number of inliers is : 80
+norm = 0.0643185
+T =    0.999556  -0.0257031   0.0150687 -0.00457944
+  0.0256684    0.999667  0.00249058   0.0151005
+ -0.0151277 -0.00210269    0.999883  0.00040536
+          0           0           0           1
+读取第168帧
+the size of pts_obj is : 100
+the number of inliers is : 97
+norm = 0.0110836
+不是关键帧
+读取第169帧
+the size of pts_obj is : 94
+the number of inliers is : 86
+norm = 0.0244453
+不是关键帧
+读取第170帧
+the size of pts_obj is : 71
+the number of inliers is : 68
+norm = 0.0378018
+不是关键帧
+读取第171帧
+the size of pts_obj is : 56
+the number of inliers is : 53
+norm = 0.0499608
+不是关键帧
+读取第172帧
+the size of pts_obj is : 58
+the number of inliers is : 52
+norm = 0.0734706
+T =    0.999029   0.0227862   0.0377075  0.00501845
+ -0.0231716    0.999683  0.00981534   0.0376025
+ -0.0374719  -0.0106795    0.999241 0.000943664
+          0           0           0           1
+../data/corner/left_173.png不存在
+读取第174帧
+the size of pts_obj is : 128
+the number of inliers is : 122
+norm = 0.026089
+不是关键帧
+读取第175帧
+the size of pts_obj is : 85
+the number of inliers is : 78
+norm = 0.0563966
+T =    0.999277   0.0150382   0.0349098 0.000866296
+  -0.015285     0.99986  0.00681326   0.0348648
+ -0.0348024 -0.00734193    0.999367 -0.00721156
+          0           0           0           1
+读取第176帧
+the size of pts_obj is : 50
+the number of inliers is : 50
+norm = 0.0371033
+不是关键帧
+读取第177帧
+the size of pts_obj is : 69
+the number of inliers is : 67
+norm = 0.0566721
+T =     0.999291    0.0100295    0.0362841 -0.000791894
+  -0.0108713     0.999675    0.0230758    0.0361743
+  -0.0360409   -0.0234539     0.999075  -0.00382172
+           0            0            0            1
+../data/corner/left_178.png不存在
+读取第179帧
+the size of pts_obj is : 75
+the number of inliers is : 74
+norm = 0.072326
+T =    0.998325 -0.00257244      0.0578 -0.00326635
+ 0.00320128    0.999937  -0.0107897   0.0578177
+ -0.0577686   0.0109566     0.99827 0.000330556
+          0           0           0           1
+读取第180帧
+the size of pts_obj is : 42
+the number of inliers is : 42
+norm = 0.0192243
+不是关键帧
+读取第181帧
+the size of pts_obj is : 50
+the number of inliers is : 49
+norm = 0.0555708
+T =    0.999099 -0.00651289   0.0419318 0.000736342
+ 0.00624303    0.999959  0.00656355   0.0419652
+ -0.0419728 -0.00629586    0.999099 -0.00110975
+          0           0           0           1
+读取第182帧
+the size of pts_obj is : 60
+the number of inliers is : 60
+norm = 0.0550195
+T =    0.998963 -0.00976849   0.0444772 -0.00190942
+ 0.00921722    0.999878   0.0125826   0.0445525
+ -0.0445947  -0.0121596    0.998931 -0.00075174
+          0           0           0           1
+读取第183帧
+the size of pts_obj is : 91
+the number of inliers is : 85
+norm = 0.059514
+T =      0.99858    0.0262097     0.046371   0.00243604
+  -0.0260748     0.999654  -0.00351101    0.0464311
+   -0.046447   0.00229691     0.998918 -0.000420929
+           0            0            0            1
+读取第184帧
+the size of pts_obj is : 70
+the number of inliers is : 68
+norm = 0.0698136
+T =    0.998053   0.0285572   0.0554497   0.0011695
+  -0.028229    0.999579 -0.00669166     0.05557
+ -0.0556175  0.00511333    0.998439 0.000304191
+          0           0           0           1
+读取第185帧
+the size of pts_obj is : 80
+the number of inliers is : 76
+norm = 0.046969
+不是关键帧
+读取第186帧
+the size of pts_obj is : 87
+the number of inliers is : 78
+norm = 0.102351
+T =     0.99624   0.0105968   0.0859814 -0.00191978
+-0.00886751    0.999751  -0.0204691    0.086193
+ -0.0861769   0.0196297    0.996086 -0.00105467
+          0           0           0           1
+读取第187帧
+the size of pts_obj is : 75
+the number of inliers is : 71
+norm = 0.0417016
+不是关键帧
+读取第188帧
+the size of pts_obj is : 73
+the number of inliers is : 71
+norm = 0.0498317
+不是关键帧
+读取第189帧
+the size of pts_obj is : 80
+the number of inliers is : 70
+norm = 0.179296
+T =     0.987357  -0.00288623     0.158483 -0.000691876
+  -0.0011692     0.999674    0.0254898     0.159183
+   -0.158505   -0.0253529     0.987033  -0.00431858
+           0            0            0            1
+读取第190帧
+the size of pts_obj is : 104
+the number of inliers is : 103
+norm = 0.0733586
+T =     0.997729    -0.012275    0.0662297   -0.0010874
+   0.0122221     0.999925    0.0012039    0.0662848
+  -0.0662395 -0.000391705     0.997804 -0.000425355
+           0            0            0            1
+读取第191帧
+the size of pts_obj is : 71
+the number of inliers is : 71
+norm = 0.0684361
+T =    0.998023  -0.0174528   0.0603721  0.00025126
+  0.0174259    0.999848 0.000973561   0.0604158
+ -0.0603799 8.03992e-05    0.998175 -0.00102035
+          0           0           0           1
+读取第192帧
+the size of pts_obj is : 125
+the number of inliers is : 120
+norm = 0.0804036
+T =    0.997317  0.00842294   0.0727242 -0.00113204
+-0.00660103    0.999659  -0.0252565   0.0728909
+ -0.0729121   0.0247086    0.997032  0.00160639
+          0           0           0           1
+读取第193帧
+the size of pts_obj is : 115
+the number of inliers is : 109
+norm = 0.0803158
+T =     0.997219    0.0074595     0.074155 -0.000790582
+ -0.00780444      0.99996   0.00436298    0.0742063
+  -0.0741195  -0.00492959     0.997237  -0.00145328
+           0            0            0            1
+读取第194帧
+the size of pts_obj is : 109
+the number of inliers is : 108
+norm = 0.0780364
+T =    0.997714  -0.0115016   0.0665904 -0.00131479
+  0.0106345    0.999854   0.0133613   0.0667151
+ -0.0667344  -0.0126226    0.997691  -0.0029331
+          0           0           0           1
+读取第195帧
+the size of pts_obj is : 173
+the number of inliers is : 170
+norm = 0.0573874
+T =     0.998552   0.00312093    0.0537089   0.00136255
+ -0.00310933     0.999995 -0.000299507    0.0537351
+  -0.0537095  0.000132075     0.998557 -0.000153364
+           0            0            0            1
+读取第196帧
+the size of pts_obj is : 139
+the number of inliers is : 139
+norm = 0.0639217
+T =     0.998456     0.021648    0.0511503  -0.00153893
+  -0.0222411     0.999692     0.011055    0.0510502
+  -0.0508952   -0.0121755      0.99863 -0.000619731
+           0            0            0            1
+读取第197帧
+the size of pts_obj is : 143
+the number of inliers is : 143
+norm = 0.0480767
+不是关键帧
+读取第198帧
+the size of pts_obj is : 129
+the number of inliers is : 129
+norm = 0.0988929
+T =    0.996268  0.00888197   0.0858578 -0.00207951
+-0.00786887    0.999895   -0.012131   0.0860162
+ -0.0859566   0.0114101    0.996234 -0.00139785
+          0           0           0           1
+读取第199帧
+the size of pts_obj is : 102
+the number of inliers is : 101
+norm = 0.057913
+T =    0.998651  0.00641316   0.0515345 -0.00160196
+-0.00633238    0.999978 -0.00173073   0.0515627
+ -0.0515445  0.00140206     0.99867 -0.00143111
+          0           0           0           1
+读取第200帧
+the size of pts_obj is : 128
+the number of inliers is : 126
+norm = 0.0552233
+T =     0.998935   0.00584761    0.0457719  -0.00164472
+  -0.0065982     0.999846    0.0162646    0.0457391
+  -0.0456698   -0.0165493     0.998819 -0.000812627
+           0            0            0            1
+读取第201帧
+the size of pts_obj is : 122
+the number of inliers is : 120
+norm = 0.0515889
+T =    0.998988  -0.0117617   0.0434075 -0.00234652
+  0.0118218    0.999929 -0.00112878    0.043414
+ -0.0433912  0.00164079    0.999057 -0.00214858
+          0           0           0           1
+读取第202帧
+the size of pts_obj is : 19
+the number of inliers is : 19
+norm = 0.0587287
+T =     0.998699   0.00283658    0.0509221   -0.0028026
+ -0.00234041     0.999949  -0.00980064    0.0509576
+  -0.0509473   0.00966871     0.998655 -0.000163748
+           0            0            0            1
+读取第203帧
+the size of pts_obj is : 94
+the number of inliers is : 93
+norm = 0.0369317
+不是关键帧
+读取第204帧
+the size of pts_obj is : 156
+the number of inliers is : 151
+norm = 0.0663219
+T =    0.998572 -0.00113618   0.0534181 -0.00369262
+ 0.00211973    0.999829  -0.0183592   0.0534315
+ -0.0533881   0.0184462    0.998403 -0.00150582
+          0           0           0           1
+读取第205帧
+the size of pts_obj is : 138
+the number of inliers is : 136
+norm = 0.0404138
+不是关键帧
+读取第206帧
+the size of pts_obj is : 133
+the number of inliers is : 132
+norm = 0.0615394
+T =    0.998746   0.0270529   0.0421218 -0.00230244
+ -0.0275532    0.999556   0.0113423   0.0419776
+ -0.0417963  -0.0124887    0.999048 -0.00148389
+          0           0           0           1
+读取第207帧
+the size of pts_obj is : 108
+the number of inliers is : 108
+norm = 0.01314
+不是关键帧
+读取第208帧
+the size of pts_obj is : 105
+the number of inliers is : 105
+norm = 0.026805
+不是关键帧
+读取第209帧
+the size of pts_obj is : 137
+the number of inliers is : 135
+norm = 0.0292419
+不是关键帧
+读取第210帧
+the size of pts_obj is : 127
+the number of inliers is : 127
+norm = 0.0431756
+不是关键帧
+读取第211帧
+the size of pts_obj is : 129
+the number of inliers is : 127
+norm = 0.0576357
+T =     0.999843  -0.00272703    0.0174966  -0.00587009
+  0.00308171      0.99979   -0.0202763    0.0174692
+  -0.0174376    0.0203271     0.999641 -0.000419064
+           0            0            0            1
+读取第212帧
+the size of pts_obj is : 103
+the number of inliers is : 103
+norm = 0.030388
+不是关键帧
+读取第213帧
+the size of pts_obj is : 92
+the number of inliers is : 92
+norm = 0.0490452
+不是关键帧
+读取第214帧
+the size of pts_obj is : 92
+the number of inliers is : 92
+norm = 0.0490452
+不是关键帧
+读取第215帧
+the size of pts_obj is : 169
+the number of inliers is : 161
+norm = 0.0831237
+T =    0.998392  0.00139954    0.056678 -0.00816166
+-0.00108874    0.999984 -0.00551407   0.0567121
+ -0.0566849   0.0054435    0.998377 -0.00372996
+          0           0           0           1
+读取第216帧
+the size of pts_obj is : 83
+the number of inliers is : 83
+norm = 0.0183164
+不是关键帧
+读取第217帧
+the size of pts_obj is : 135
+the number of inliers is : 133
+norm = 0.0304036
+不是关键帧
+读取第218帧
+the size of pts_obj is : 131
+the number of inliers is : 129
+norm = 0.033663
+不是关键帧
+读取第219帧
+the size of pts_obj is : 157
+the number of inliers is : 155
+norm = 0.0522355
+T =     0.999594    0.0161872   -0.0234651  -0.00354172
+   -0.016169     0.999869  0.000963494   -0.0234745
+   0.0234776 -0.000583694     0.999724  -0.00232772
+           0            0            0            1
+读取第220帧
+the size of pts_obj is : 86
+the number of inliers is : 79
+norm = 0.0250558
+不是关键帧
+读取第221帧
+the size of pts_obj is : 119
+the number of inliers is : 119
+norm = 0.0427827
+不是关键帧
+读取第222帧
+the size of pts_obj is : 141
+the number of inliers is : 135
+norm = 0.0524487
+T =     0.999684   0.00817823   -0.0237679  -0.00444379
+ -0.00858646     0.999816   -0.0171244   -0.0236994
+   0.0236235    0.0173231     0.999571 -0.000856489
+           0            0            0            1
+读取第223帧
+the size of pts_obj is : 91
+the number of inliers is : 90
+norm = 0.0137536
+不是关键帧
+读取第224帧
+the size of pts_obj is : 97
+the number of inliers is : 96
+norm = 0.0329451
+不是关键帧
+读取第225帧
+the size of pts_obj is : 116
+the number of inliers is : 113
+norm = 0.0423856
+不是关键帧
+读取第226帧
+the size of pts_obj is : 131
+the number of inliers is : 128
+norm = 0.065634
+T =    0.999176  0.00236541   0.0405134 -0.00732369
+-0.00272774    0.999957  0.00889059   0.0405137
+ -0.0404906 -0.00899377    0.999139 -0.00178298
+          0           0           0           1
+读取第227帧
+the size of pts_obj is : 54
+the number of inliers is : 54
+norm = 0.0188592
+不是关键帧
+读取第228帧
+the size of pts_obj is : 88
+the number of inliers is : 87
+norm = 0.0263774
+不是关键帧
+读取第229帧
+the size of pts_obj is : 105
+the number of inliers is : 104
+norm = 0.0392818
+不是关键帧
+读取第230帧
+the size of pts_obj is : 108
+the number of inliers is : 107
+norm = 0.0404672
+不是关键帧
+读取第231帧
+the size of pts_obj is : 171
+the number of inliers is : 152
+norm = 0.0401701
+不是关键帧
+../data/corner/left_232.png不存在
+../data/corner/left_233.png不存在
+../data/corner/left_234.png不存在
+../data/corner/left_235.png不存在
+../data/corner/left_236.png不存在
+读取第237帧
+the size of pts_obj is : 159
+the number of inliers is : 147
+norm = 0.0756999
+T =    0.999936  0.00726589  0.00871843   -0.011814
+-0.00725703    0.999973 -0.00104767  0.00872231
+-0.00872581 0.000984334    0.999961 -0.00730859
+          0           0           0           1
+读取第238帧
+the size of pts_obj is : 96
+the number of inliers is : 96
+norm = 0.0316113
+不是关键帧
+读取第239帧
+the size of pts_obj is : 98
+the number of inliers is : 98
+norm = 0.0512867
+T =    0.999597  -0.0186142   0.0214199 -0.00287454
+  0.0180507    0.999494   0.0262078   0.0216638
+ -0.0218969  -0.0258106    0.999427 -0.00337427
+          0           0           0           1
+读取第240帧
+the size of pts_obj is : 108
+the number of inliers is : 108
+norm = 0.0308673
+不是关键帧
+读取第241帧
+the size of pts_obj is : 108
+the number of inliers is : 108
+norm = 0.0308673
+不是关键帧
+读取第242帧
+the size of pts_obj is : 92
+the number of inliers is : 92
+norm = 0.0473336
+不是关键帧
+读取第243帧
+the size of pts_obj is : 49
+the number of inliers is : 49
+norm = 0.0633171
+T =     0.999718    0.0237552  0.000211323  -0.00937617
+  -0.0237437     0.999445   -0.0233533  0.000488735
+-0.000765966    0.0233417     0.999727  -0.00203776
+           0            0            0            1
+读取第244帧
+the size of pts_obj is : 107
+the number of inliers is : 107
+norm = 0.0260558
+不是关键帧
+读取第245帧
+the size of pts_obj is : 77
+the number of inliers is : 77
+norm = 0.0406686
+不是关键帧
+读取第246帧
+the size of pts_obj is : 121
+the number of inliers is : 121
+norm = 0.0525853
+T =     0.99944   0.0123695  -0.0310767 -0.00343007
+ -0.0122702    0.999919  0.00338423  -0.0311022
+   0.031116 -0.00300102    0.999511 0.000585547
+          0           0           0           1
+读取第247帧
+the size of pts_obj is : 94
+the number of inliers is : 93
+norm = 0.017995
+不是关键帧
+读取第248帧
+the size of pts_obj is : 43
+the number of inliers is : 43
+norm = 0.0364283
+不是关键帧
+读取第249帧
+the size of pts_obj is : 111
+the number of inliers is : 111
+norm = 0.0466024
+不是关键帧
+读取第250帧
+the size of pts_obj is : 104
+the number of inliers is : 104
+norm = 0.0648733
+T =    0.999275  0.00605615   0.0375762 -0.00706627
+-0.00581343    0.999962 -0.00656531   0.0376047
+ -0.0376145  0.00634211    0.999272 -0.00237809
+          0           0           0           1
+读取第251帧
+the size of pts_obj is : 56
+the number of inliers is : 56
+norm = 0.0106255
+不是关键帧
+读取第252帧
+the size of pts_obj is : 96
+the number of inliers is : 95
+norm = 0.028653
+不是关键帧
+../data/corner/left_253.png不存在
+读取第254帧
+the size of pts_obj is : 108
+the number of inliers is : 108
+norm = 0.0358308
+不是关键帧
+读取第255帧
+the size of pts_obj is : 107
+the number of inliers is : 107
+norm = 0.0401141
+不是关键帧
+读取第256帧
+the size of pts_obj is : 98
+the number of inliers is : 97
+norm = 0.0529746
+T =    0.999895  0.00562136  -0.0133617  -0.0076584
+-0.00572621    0.999953 -0.00782125    -0.01334
+  0.0133171  0.00789694     0.99988 -0.00143453
+          0           0           0           1
+读取第257帧
+the size of pts_obj is : 76
+the number of inliers is : 76
+norm = 0.0118717
+不是关键帧
+读取第258帧
+the size of pts_obj is : 62
+the number of inliers is : 62
+norm = 0.0233641
+不是关键帧
+读取第259帧
+the size of pts_obj is : 81
+the number of inliers is : 81
+norm = 0.0317217
+不是关键帧
+读取第260帧
+the size of pts_obj is : 95
+the number of inliers is : 95
+norm = 0.0476538
+不是关键帧
+读取第261帧
+the size of pts_obj is : 128
+the number of inliers is : 124
+norm = 0.0532331
+T =    0.999993  0.00322614  0.00205816 -0.00952488
+ -0.0032684    0.999777   0.0208729  0.00202441
+-0.00199036  -0.0208794     0.99978 -0.00137306
+          0           0           0           1
+读取第262帧
+the size of pts_obj is : 79
+the number of inliers is : 79
+norm = 0.0164286
+不是关键帧
+读取第263帧
+the size of pts_obj is : 77
+the number of inliers is : 77
+norm = 0.0263759
+不是关键帧
+读取第264帧
+the size of pts_obj is : 77
+the number of inliers is : 77
+norm = 0.0263759
+不是关键帧
+读取第265帧
+the size of pts_obj is : 134
+the number of inliers is : 133
+norm = 0.0515474
+T =    0.999698   -0.022035  -0.0108549  -0.0066065
+  0.0220906    0.999743  0.00503399  -0.0107991
+  0.0107411 -0.00527226    0.999928   -0.001199
+          0           0           0           1
+读取第266帧
+the size of pts_obj is : 70
+the number of inliers is : 68
+norm = 0.0214675
+不是关键帧
+读取第267帧
+the size of pts_obj is : 79
+the number of inliers is : 79
+norm = 0.0417674
+不是关键帧
+读取第268帧
+the size of pts_obj is : 32
+the number of inliers is : 32
+norm = 0.0646496
+T =     0.998954    0.0457217  -0.00116024  -0.00122424
+  -0.0457207     0.998954  0.000823802  -0.00117888
+  0.00119669 -0.000769893     0.999999 -0.000983209
+           0            0            0            1
+读取第269帧
+the size of pts_obj is : 263
+the number of inliers is : 263
+norm = 8.57826e-08
+不是关键帧
+读取第270帧
+the size of pts_obj is : 96
+the number of inliers is : 94
+norm = 0.0556607
+T =     0.999275   -0.0224699   -0.0307338   -0.0012533
+   0.0218048     0.999524   -0.0218083   -0.0309813
+   0.0312092    0.0211223      0.99929 -0.000402497
+           0            0            0            1
+读取第271帧
+the size of pts_obj is : 114
+the number of inliers is : 105
+norm = 0.045237
+不是关键帧
+读取第272帧
+the size of pts_obj is : 67
+the number of inliers is : 67
+norm = 0.0442629
+不是关键帧
+读取第273帧
+the size of pts_obj is : 116
+the number of inliers is : 112
+norm = 0.0654456
+T =    0.999257 -0.00035876   0.0385452 -0.00485663
+ 0.00138665    0.999644  -0.0266436   0.0385477
+ -0.0385219   0.0266772    0.998902 -0.00254057
+          0           0           0           1
+读取第274帧
+the size of pts_obj is : 74
+the number of inliers is : 74
+norm = 0.0211035
+不是关键帧
+读取第275帧
+the size of pts_obj is : 115
+the number of inliers is : 115
+norm = 0.0368573
+不是关键帧
+读取第276帧
+the size of pts_obj is : 74
+the number of inliers is : 74
+norm = 0.0530991
+T =    0.999556   -0.025051   0.0161148 -0.00409245
+  0.0247379    0.999507   0.0193443   0.0163566
+ -0.0165915  -0.0189371    0.999683  -0.0010248
+          0           0           0           1
+读取第277帧
+the size of pts_obj is : 54
+the number of inliers is : 54
+norm = 0.0172853
+不是关键帧
+读取第278帧
+the size of pts_obj is : 127
+the number of inliers is : 125
+norm = 0.031666
+不是关键帧
+读取第279帧
+the size of pts_obj is : 72
+the number of inliers is : 69
+norm = 0.0417929
+不是关键帧
+读取第280帧
+the size of pts_obj is : 87
+the number of inliers is : 85
+norm = 0.0611641
+T =    0.999562   0.0097889  -0.0279437 -0.00410282
+-0.00929948    0.999802    0.017591  -0.0280326
+  0.0281104  -0.0173234    0.999455 -0.00165745
+          0           0           0           1
+读取第281帧
+the size of pts_obj is : 126
+the number of inliers is : 117
+norm = 0.0203838
+不是关键帧
+读取第282帧
+the size of pts_obj is : 73
+the number of inliers is : 72
+norm = 0.0294107
+不是关键帧
+读取第283帧
+the size of pts_obj is : 106
+the number of inliers is : 96
+norm = 0.0290965
+不是关键帧
+读取第284帧
+the size of pts_obj is : 86
+the number of inliers is : 81
+norm = 0.0467192
+不是关键帧
+读取第285帧
+the size of pts_obj is : 66
+the number of inliers is : 65
+norm = 0.066349
+T =    0.999493  -0.0154845   0.0278304 -0.00707264
+  0.0150319    0.999753   0.0163974   0.0279598
+ -0.0280774  -0.0159708    0.999478 -0.00192893
+          0           0           0           1
+读取第286帧
+the size of pts_obj is : 65
+the number of inliers is : 64
+norm = 0.0270273
+不是关键帧
+读取第287帧
+the size of pts_obj is : 116
+the number of inliers is : 114
+norm = 0.0223022
+不是关键帧
+读取第288帧
+the size of pts_obj is : 129
+the number of inliers is : 127
+norm = 0.0224071
+不是关键帧
+读取第289帧
+the size of pts_obj is : 96
+the number of inliers is : 94
+norm = 0.0434115
+不是关键帧
+读取第290帧
+the size of pts_obj is : 112
+the number of inliers is : 110
+norm = 0.0642293
+T =    0.999489   0.0276612   -0.016015 -0.00274372
+ -0.0279061    0.999494   -0.015281  -0.0158029
+  0.0155842   0.0157202    0.999755  -0.0017714
+          0           0           0           1
+读取第291帧
+the size of pts_obj is : 55
+the number of inliers is : 50
+norm = 0.0198337
+不是关键帧
+读取第292帧
+the size of pts_obj is : 149
+the number of inliers is : 140
+norm = 0.0339398
+不是关键帧
+读取第293帧
+the size of pts_obj is : 78
+the number of inliers is : 74
+norm = 0.0514216
+T =     0.999407  0.000666205   -0.0344184  0.000214386
+-0.000799806     0.999992  -0.00386805   -0.0344238
+   0.0344155   0.00389329       0.9994  0.000119458
+           0            0            0            1
+读取第294帧
+the size of pts_obj is : 93
+the number of inliers is : 91
+norm = 0.0191177
+不是关键帧
+读取第295帧
+the size of pts_obj is : 105
+the number of inliers is : 97
+norm = 0.03188
+不是关键帧
+读取第296帧
+the size of pts_obj is : 31
+the number of inliers is : 28
+norm = 0.050114
+T =    0.999592 -0.00471711    0.028172 -0.00212626
+ 0.00445427    0.999946  0.00938537   0.0281976
+ -0.0282148 -0.00925605    0.999559 -0.00218419
+          0           0           0           1
+读取第297帧
+the size of pts_obj is : 95
+the number of inliers is : 90
+norm = 0.0275127
+不是关键帧
+读取第298帧
+the size of pts_obj is : 115
+the number of inliers is : 107
+norm = 0.0340296
+不是关键帧
+读取第299帧
+the size of pts_obj is : 112
+the number of inliers is : 111
+norm = 0.0341297
+不是关键帧
+读取第300帧
+the size of pts_obj is : 97
+the number of inliers is : 90
+norm = 0.0397541
+不是关键帧
+读取第301帧
+the size of pts_obj is : 74
+the number of inliers is : 71
+norm = 0.0552614
+T =    0.999997  0.00199559  0.00126892 -0.00278828
+-0.00197022    0.999804  -0.0196834  0.00128852
+-0.00130795   0.0196808    0.999805 -0.00253341
+          0           0           0           1
+读取第302帧
+the size of pts_obj is : 114
+the number of inliers is : 113
+norm = 0.0408076
+不是关键帧
+读取第303帧
+the size of pts_obj is : 14
+the number of inliers is : 14
+norm = 0.0458297
+不是关键帧
+读取第304帧
+the size of pts_obj is : 86
+the number of inliers is : 84
+norm = 0.052537
+T =    0.999484  -0.0045509   -0.031796 8.55971e-05
+ 0.00435676    0.999971  -0.0061725  -0.0318152
+  0.0318231  0.00603079    0.999475 0.000169903
+          0           0           0           1
+读取第305帧
+the size of pts_obj is : 26
+the number of inliers is : 26
+norm = 0.0387151
+不是关键帧
+读取第306帧
+the size of pts_obj is : 23
+the number of inliers is : 23
+norm = 0.0476519
+不是关键帧
+读取第307帧
+the size of pts_obj is : 64
+the number of inliers is : 64
+norm = 0.0358792
+不是关键帧
+读取第308帧
+the size of pts_obj is : 67
+the number of inliers is : 66
+norm = 0.0437382
+不是关键帧
+读取第309帧
+the size of pts_obj is : 67
+the number of inliers is : 66
+norm = 0.0437382
+不是关键帧
+读取第310帧
+the size of pts_obj is : 90
+the number of inliers is : 86
+norm = 0.0518504
+T =    0.999872    0.004839   0.0152483 -0.00295938
+-0.00498135    0.999944   0.0093108   0.0152263
+ -0.0152024 -0.00938557     0.99984 -0.00104018
+          0           0           0           1
+读取第311帧
+the size of pts_obj is : 89
+the number of inliers is : 85
+norm = 0.0191468
+不是关键帧
+../data/corner/left_312.png不存在
+读取第313帧
+the size of pts_obj is : 83
+the number of inliers is : 80
+norm = 0.0353166
+不是关键帧
+读取第314帧
+the size of pts_obj is : 84
+the number of inliers is : 82
+norm = 0.0468923
+不是关键帧
+读取第315帧
+the size of pts_obj is : 82
+the number of inliers is : 77
+norm = 0.0626409
+T =     0.999512     0.020015    -0.023983 -0.000974986
+   -0.020102     0.999792  -0.00339022   -0.0239505
+   0.0239101   0.00387067     0.999707  -0.00265816
+           0            0            0            1
+读取第316帧
+the size of pts_obj is : 267
+the number of inliers is : 267
+norm = 2.38886e-08
+不是关键帧
+读取第317帧
+the size of pts_obj is : 41
+the number of inliers is : 39
+norm = 0.0416463
+不是关键帧
+读取第318帧
+the size of pts_obj is : 97
+the number of inliers is : 91
+norm = 0.0427691
+不是关键帧
+读取第319帧
+the size of pts_obj is : 128
+the number of inliers is : 118
+norm = 0.0373548
+不是关键帧
+读取第320帧
+the size of pts_obj is : 104
+the number of inliers is : 92
+norm = 0.0511774
+T =     0.99984   -0.016033 -0.00792887 -0.00266634
+  0.0161487    0.999761   0.0147544 -0.00781034
+ 0.00769041  -0.0148801     0.99986 0.000352955
+          0           0           0           1
+读取第321帧
+the size of pts_obj is : 127
+the number of inliers is : 121
+norm = 0.0242055
+不是关键帧
+读取第322帧
+the size of pts_obj is : 93
+the number of inliers is : 86
+norm = 0.0387371
+不是关键帧
+读取第323帧
+the size of pts_obj is : 63
+the number of inliers is : 56
+norm = 0.0443996
+不是关键帧
+读取第324帧
+the size of pts_obj is : 19
+the number of inliers is : 16
+norm = 0.053905
+T =     0.999597  0.000432763    0.0283743 -0.000858758
+-0.000180465      0.99996  -0.00889373    0.0283798
+   -0.028377   0.00888503     0.999558  -0.00178035
+           0            0            0            1
+读取第325帧
+the size of pts_obj is : 86
+the number of inliers is : 82
+norm = 0.0181986
+不是关键帧
+读取第326帧
+the size of pts_obj is : 85
+the number of inliers is : 82
+norm = 0.0267249
+不是关键帧
+读取第327帧
+the size of pts_obj is : 47
+the number of inliers is : 47
+norm = 0.041741
+不是关键帧
+读取第328帧
+the size of pts_obj is : 86
+the number of inliers is : 79
+norm = 0.0576845
+T =     0.999679    0.0203804   -0.0150302  -0.00332421
+  -0.0205358     0.999736    -0.010258   -0.0149256
+   0.0148172    0.0105633     0.999834 -1.70334e-05
+           0            0            0            1
+读取第329帧
+the size of pts_obj is : 88
+the number of inliers is : 86
+norm = 0.0198098
+不是关键帧
+读取第330帧
+the size of pts_obj is : 124
+the number of inliers is : 117
+norm = 0.0236247
+不是关键帧
+读取第331帧
+the size of pts_obj is : 96
+the number of inliers is : 92
+norm = 0.0314807
+不是关键帧
+读取第332帧
+the size of pts_obj is : 111
+the number of inliers is : 107
+norm = 0.0529154
+T =     0.999673   -0.0253244  -0.00352212  -0.00366449
+   0.0253226     0.999679 -0.000554866  -0.00352897
+  0.00353505  0.000465495     0.999994  -0.00185793
+           0            0            0            1
+读取第333帧
+the size of pts_obj is : 114
+the number of inliers is : 110
+norm = 0.0199769
+不是关键帧
+读取第334帧
+the size of pts_obj is : 64
+the number of inliers is : 61
+norm = 0.0312829
+不是关键帧
+读取第335帧
+the size of pts_obj is : 85
+the number of inliers is : 81
+norm = 0.041539
+不是关键帧
+读取第336帧
+the size of pts_obj is : 88
+the number of inliers is : 84
+norm = 0.0503839
+T =     0.999733    0.0200479    0.0115127 -0.000838105
+  -0.0201052     0.999786   0.00487942    0.0114636
+  -0.0114124  -0.00510958     0.999922   -0.0014616
+           0            0            0            1
+读取第337帧
+the size of pts_obj is : 48
+the number of inliers is : 48
+norm = 0.0228897
+不是关键帧
+读取第338帧
+the size of pts_obj is : 102
+the number of inliers is : 101
+norm = 0.0329022
+不是关键帧
+读取第339帧
+the size of pts_obj is : 55
+the number of inliers is : 55
+norm = 0.0465813
+不是关键帧
+读取第340帧
+the size of pts_obj is : 73
+the number of inliers is : 73
+norm = 0.0643319
+T =    0.999434   0.0143504  -0.0304424 -0.00116618
+  -0.014721     0.99982  -0.0119856  -0.0303601
+  0.0302649    0.012427    0.999465 0.000983781
+          0           0           0           1
+读取第341帧
+the size of pts_obj is : 61
+the number of inliers is : 61
+norm = 0.0137471
+不是关键帧
+读取第342帧
+the size of pts_obj is : 61
+the number of inliers is : 61
+norm = 0.0137471
+不是关键帧
+读取第343帧
+the size of pts_obj is : 115
+the number of inliers is : 115
+norm = 0.0601286
+T =     0.999482   -0.0198997    0.0252748  -0.00240185
+   0.0192871      0.99952    0.0242529    0.0255169
+  -0.0257453   -0.0237529     0.999386 -0.000851694
+           0            0            0            1
+读取第344帧
+the size of pts_obj is : 108
+the number of inliers is : 108
+norm = 0.0153976
+不是关键帧
+读取第345帧
+the size of pts_obj is : 96
+the number of inliers is : 96
+norm = 0.040964
+不是关键帧
+读取第346帧
+the size of pts_obj is : 96
+the number of inliers is : 95
+norm = 0.0548182
+T =    0.999557  -0.0195905   0.0223994 -0.00107369
+  0.0200201    0.999617  -0.0191157   0.0222126
+ -0.0220164   0.0195557    0.999566 -0.00190526
+          0           0           0           1
+读取第347帧
+the size of pts_obj is : 97
+the number of inliers is : 97
+norm = 0.024101
+不是关键帧
+读取第348帧
+the size of pts_obj is : 71
+the number of inliers is : 71
+norm = 0.0462181
+不是关键帧
+读取第349帧
+the size of pts_obj is : 121
+the number of inliers is : 120
+norm = 0.0646204
+T =   0.999349  0.0247825 -0.0262241 0.00110437
+-0.0241552   0.999421  0.0239718 -0.0265217
+ 0.0268029 -0.0233227   0.999369 0.00111289
+         0          0          0          1
+读取第350帧
+the size of pts_obj is : 111
+the number of inliers is : 110
+norm = 0.0222283
+不是关键帧
+读取第351帧
+the size of pts_obj is : 26
+the number of inliers is : 26
+norm = 0.0459766
+不是关键帧
+读取第352帧
+the size of pts_obj is : 72
+the number of inliers is : 69
+norm = 0.0498734
+不是关键帧
+读取第353帧
+the size of pts_obj is : 95
+the number of inliers is : 93
+norm = 0.0559266
+T =    0.999919   0.0124064 -0.00285579 0.000296459
+ -0.0124754    0.999595  -0.0255586 -0.00269703
+ 0.00253754   0.0255922    0.999669 -0.00321495
+          0           0           0           1
+读取第354帧
+the size of pts_obj is : 65
+the number of inliers is : 65
+norm = 0.0271522
+不是关键帧
+读取第355帧
+the size of pts_obj is : 127
+the number of inliers is : 124
+norm = 0.042632
+不是关键帧
+读取第356帧
+the size of pts_obj is : 77
+the number of inliers is : 76
+norm = 0.0618295
+T =    0.999206  -0.0382074   0.0112594 -0.00250417
+  0.0382557     0.99926 -0.00410556   0.0111798
+ -0.0110942  0.00453303    0.999928  0.00181143
+          0           0           0           1
+读取第357帧
+the size of pts_obj is : 53
+the number of inliers is : 53
+norm = 0.0200054
+不是关键帧
+读取第358帧
+the size of pts_obj is : 136
+the number of inliers is : 133
+norm = 0.0336539
+不是关键帧
+读取第359帧
+the size of pts_obj is : 136
+the number of inliers is : 133
+norm = 0.0336539
+不是关键帧
+读取第360帧
+the size of pts_obj is : 112
+the number of inliers is : 98
+norm = 0.0530026
+T =    0.999937  0.00570639 -0.00971133  0.00107419
+-0.00551376     0.99979   0.0197481  -0.0097675
+ 0.00982198  -0.0196933    0.999758   -0.001809
+          0           0           0           1
+读取第361帧
+the size of pts_obj is : 95
+the number of inliers is : 92
+norm = 0.0254306
+不是关键帧
+读取第362帧
+the size of pts_obj is : 65
+the number of inliers is : 63
+norm = 0.0394924
+不是关键帧
+读取第363帧
+the size of pts_obj is : 85
+the number of inliers is : 83
+norm = 0.0331006
+不是关键帧
+读取第364帧
+the size of pts_obj is : 124
+the number of inliers is : 119
+norm = 0.0492001
+不是关键帧
+读取第365帧
+the size of pts_obj is : 96
+the number of inliers is : 90
+norm = 0.0608088
+T =    0.999729   -0.015116    0.017732  -0.0029417
+  0.0153836    0.999768  -0.0150576   0.0176184
+ -0.0175002   0.0153263    0.999729 -0.00144658
+          0           0           0           1
+读取第366帧
+the size of pts_obj is : 119
+the number of inliers is : 112
+norm = 0.0269634
+不是关键帧
+读取第367帧
+the size of pts_obj is : 109
+the number of inliers is : 103
+norm = 0.0206492
+不是关键帧
+读取第368帧
+the size of pts_obj is : 92
+the number of inliers is : 85
+norm = 0.031815
+不是关键帧
+读取第369帧
+the size of pts_obj is : 100
+the number of inliers is : 92
+norm = 0.0480994
+不是关键帧
+读取第370帧
+the size of pts_obj is : 48
+the number of inliers is : 41
+norm = 0.0651183
+T =    0.999731    0.011697  -0.0200042  -0.0012017
+ -0.0112364    0.999673   0.0229819  -0.0201389
+  0.0202664  -0.0227509    0.999536 -0.00236806
+          0           0           0           1
+读取第371帧
+the size of pts_obj is : 97
+the number of inliers is : 94
+norm = 0.0228999
+不是关键帧
+读取第372帧
+the size of pts_obj is : 130
+the number of inliers is : 124
+norm = 0.0374774
+不是关键帧
+读取第373帧
+the size of pts_obj is : 105
+the number of inliers is : 99
+norm = 0.0560992
+T =     0.999582    0.0111537   -0.0266845 -0.000311315
+  -0.0116401     0.999768   -0.0181431   -0.0265854
+    0.026476    0.0184461     0.999479  0.000385985
+           0            0            0            1
+../data/corner/left_374.png不存在
+读取第375帧
+the size of pts_obj is : 84
+the number of inliers is : 81
+norm = 0.0248192
+不是关键帧
+读取第376帧
+the size of pts_obj is : 50
+the number of inliers is : 50
+norm = 0.0462106
+不是关键帧
+读取第377帧
+the size of pts_obj is : 119
+the number of inliers is : 115
+norm = 0.0640341
+T =     0.999297   -0.0172701    0.0332817 -0.000982013
+   0.0171493     0.999845   0.00391185    0.0333208
+  -0.0333441  -0.00333835     0.999438  -0.00194723
+           0            0            0            1
+读取第378帧
+the size of pts_obj is : 19
+the number of inliers is : 19
+norm = 0.0263892
+不是关键帧
+读取第379帧
+the size of pts_obj is : 48
+the number of inliers is : 46
+norm = 0.0555202
+T =     0.999691 -6.23612e-05     0.024854  -0.00351248
+ 0.000757316     0.999609   -0.0279531    0.0248541
+  -0.0248425    0.0279633       0.9993 -0.000547262
+           0            0            0            1
+读取第380帧
+the size of pts_obj is : 86
+the number of inliers is : 86
+norm = 0.0222054
+不是关键帧
+读取第381帧
+the size of pts_obj is : 120
+the number of inliers is : 119
+norm = 0.0345255
+不是关键帧
+读取第382帧
+the size of pts_obj is : 126
+the number of inliers is : 123
+norm = 0.0522967
+T =     0.999498    0.0311263  -0.00592788  0.000948031
+  -0.0311318     0.999515 -0.000834146  -0.00591445
+  0.00589904   0.00101827     0.999982  -0.00122157
+           0            0            0            1
+读取第383帧
+the size of pts_obj is : 79
+the number of inliers is : 79
+norm = 0.0209142
+不是关键帧
+读取第384帧
+the size of pts_obj is : 85
+the number of inliers is : 84
+norm = 0.045491
+不是关键帧
+读取第385帧
+the size of pts_obj is : 92
+the number of inliers is : 91
+norm = 0.0621768
+T =     0.999233   0.00465901   -0.0388905  0.000657102
+ -0.00541866     0.999796   -0.0194505   -0.0388536
+   0.0387919    0.0196463     0.999054 -0.000658584
+           0            0            0            1
+读取第386帧
+the size of pts_obj is : 131
+the number of inliers is : 131
+norm = 0.0252754
+不是关键帧
+读取第387帧
+the size of pts_obj is : 131
+the number of inliers is : 131
+norm = 0.0252754
+不是关键帧
+读取第388帧
+the size of pts_obj is : 158
+the number of inliers is : 150
+norm = 0.0780514
+T =     0.99881  -0.0120505   0.0472516 -0.00395215
+  0.0108511    0.999614   0.0255593   0.0474204
+ -0.0475414  -0.0250162    0.998556 -0.00270389
+          0           0           0           1
+读取第389帧
+the size of pts_obj is : 58
+the number of inliers is : 58
+norm = 0.0176934
+不是关键帧
+读取第390帧
+the size of pts_obj is : 54
+the number of inliers is : 54
+norm = 0.0324191
+不是关键帧
+读取第391帧
+the size of pts_obj is : 118
+the number of inliers is : 114
+norm = 0.0340169
+不是关键帧
+../data/corner/left_392.png不存在
+../data/corner/left_393.png不存在
+读取第394帧
+the size of pts_obj is : 115
+the number of inliers is : 110
+norm = 0.0790132
+T =     0.999676    0.0251961   0.00374769 -0.000583764
+  -0.0253184     0.998984    0.0372749   0.00327732
+ -0.00280471   -0.0373577     0.999298  -0.00186844
+           0            0            0            1
+读取第395帧
+the size of pts_obj is : 89
+the number of inliers is : 86
+norm = 0.0516008
+T =    0.999611 -0.00799482  -0.0267282  0.00165615
+ 0.00712504    0.999447    -0.03248  -0.0268589
+  0.0269731   0.0322769    0.999115  0.00160981
+          0           0           0           1
+读取第396帧
+the size of pts_obj is : 61
+the number of inliers is : 61
+norm = 0.0221867
+不是关键帧
+读取第397帧
+the size of pts_obj is : 61
+the number of inliers is : 61
+norm = 0.0221867
+不是关键帧
+读取第398帧
+the size of pts_obj is : 70
+the number of inliers is : 67
+norm = 0.0616645
+T =    0.999363   0.0300825   0.0192186 -0.00105791
+ -0.0304886     0.99931   0.0212008   0.0188986
+ -0.0185676  -0.0217732    0.999591 -0.00143428
+          0           0           0           1
+读取第399帧
+the size of pts_obj is : 105
+the number of inliers is : 103
+norm = 0.0293307
+不是关键帧
+读取第400帧
+the size of pts_obj is : 64
+the number of inliers is : 62
+norm = 0.0399901
+不是关键帧
+读取第401帧
+the size of pts_obj is : 150
+the number of inliers is : 142
+norm = 0.0696516
+T =     0.999005   -0.0371656    0.0246418  -0.00183594
+   0.0376357     0.999113   -0.0188965    0.0242892
+  -0.0239176    0.0198051     0.999518 -0.000828209
+           0            0            0            1
+读取第402帧
+the size of pts_obj is : 35
+the number of inliers is : 35
+norm = 0.0262407
+不是关键帧
+读取第403帧
+the size of pts_obj is : 91
+the number of inliers is : 91
+norm = 0.0378006
+不是关键帧
+读取第404帧
+the size of pts_obj is : 117
+the number of inliers is : 114
+norm = 0.0528816
+T =    0.999766   0.0198683 -0.00858507 0.000712621
+ -0.0196224     0.99942    0.027841 -0.00886099
+ 0.00913325   -0.027666    0.999575 -0.00205414
+          0           0           0           1
+读取第405帧
+the size of pts_obj is : 318
+the number of inliers is : 318
+norm = 8.91008e-09
+不是关键帧
+读取第406帧
+the size of pts_obj is : 76
+the number of inliers is : 74
+norm = 0.0505285
+T =     0.999773   0.00701161   -0.0200969 -0.000403274
+ -0.00756661     0.999588   -0.0276746   -0.0199998
+   0.0198945    0.0278204     0.999415  0.000189433
+           0            0            0            1
+读取第407帧
+the size of pts_obj is : 142
+the number of inliers is : 141
+norm = 0.0244809
+不是关键帧
+读取第408帧
+the size of pts_obj is : 145
+the number of inliers is : 142
+norm = 0.0441699
+不是关键帧
+读取第409帧
+the size of pts_obj is : 111
+the number of inliers is : 109
+norm = 0.0537874
+T =    0.999612   0.0135705  -0.0243241 -0.00071058
+ -0.0132329    0.999815   0.0139882  -0.0244207
+  0.0245094  -0.0136609    0.999606 -0.00267393
+          0           0           0           1
+读取第410帧
+the size of pts_obj is : 98
+the number of inliers is : 98
+norm = 0.026931
+不是关键帧
+读取第411帧
+the size of pts_obj is : 90
+the number of inliers is : 87
+norm = 0.0467916
+不是关键帧
+读取第412帧
+the size of pts_obj is : 94
+the number of inliers is : 91
+norm = 0.071708
+T =     0.99899  -0.0299856   0.0334703 -0.00143198
+  0.0306847    0.999317  -0.0205734   0.0331641
+ -0.0328306   0.0215797    0.999228 0.000146064
+          0           0           0           1
+读取第413帧
+the size of pts_obj is : 45
+the number of inliers is : 45
+norm = 0.0297615
+不是关键帧
+读取第414帧
+the size of pts_obj is : 119
+the number of inliers is : 118
+norm = 0.0396472
+不是关键帧
+读取第415帧
+the size of pts_obj is : 94
+the number of inliers is : 92
+norm = 0.0514297
+T =    0.999913   0.0127102 -0.00355225 -0.00043461
+  -0.012602      0.9995   0.0289935 -0.00373625
+ 0.00391899  -0.0289462    0.999573 -0.00185084
+          0           0           0           1
+读取第416帧
+the size of pts_obj is : 49
+the number of inliers is : 49
+norm = 0.0274571
+不是关键帧
+读取第417帧
+the size of pts_obj is : 136
+the number of inliers is : 135
+norm = 0.0520855
+T =     0.999569  -0.00797874   -0.0282497 -0.000238467
+  0.00726874     0.999657   -0.0251474   -0.0283522
+   0.0284406    0.0249312     0.999285 -0.000485105
+           0            0            0            1
+读取第418帧
+the size of pts_obj is : 91
+the number of inliers is : 91
+norm = 0.0215608
+不是关键帧
+读取第419帧
+the size of pts_obj is : 106
+the number of inliers is : 105
+norm = 0.0444591
+不是关键帧
+读取第420帧
+the size of pts_obj is : 125
+the number of inliers is : 124
+norm = 0.0399858
+不是关键帧
+读取第421帧
+the size of pts_obj is : 132
+the number of inliers is : 129
+norm = 0.0434546
+不是关键帧
+读取第422帧
+the size of pts_obj is : 132
+the number of inliers is : 129
+norm = 0.0434546
+不是关键帧
+读取第423帧
+the size of pts_obj is : 60
+the number of inliers is : 60
+norm = 0.0699378
+T =    0.999643  -0.0168514   0.0207443 -0.00233078
+  0.0168068    0.999856  0.00232189   0.0207648
+ -0.0207804 -0.00197241    0.999782 -0.00117865
+          0           0           0           1
+读取第424帧
+the size of pts_obj is : 91
+the number of inliers is : 89
+norm = 0.0221273
+不是关键帧
+读取第425帧
+the size of pts_obj is : 98
+the number of inliers is : 94
+norm = 0.02669
+不是关键帧
+读取第426帧
+the size of pts_obj is : 71
+the number of inliers is : 68
+norm = 0.0411841
+不是关键帧
+读取第427帧
+the size of pts_obj is : 95
+the number of inliers is : 79
+norm = 0.0635258
+T =    0.999713   0.0227195 -0.00754236  0.00259628
+ -0.0225737    0.999567   0.0188812 -0.00775641
+ 0.00796806  -0.0187055    0.999793 -0.00286209
+          0           0           0           1
+读取第428帧
+the size of pts_obj is : 87
+the number of inliers is : 85
+norm = 0.0299157
+不是关键帧
+读取第429帧
+the size of pts_obj is : 141
+the number of inliers is : 130
+norm = 0.0506981
+T =     0.999945  -0.00038429   -0.0104514   0.00153461
+-1.70962e-05     0.999263   -0.0383778   -0.0104577
+   0.0104585    0.0383758     0.999209   0.00163774
+           0            0            0            1
+读取第430帧
+the size of pts_obj is : 108
+the number of inliers is : 107
+norm = 0.0374101
+不是关键帧
+读取第431帧
+the size of pts_obj is : 108
+the number of inliers is : 107
+norm = 0.0374101
+不是关键帧
+读取第432帧
+the size of pts_obj is : 92
+the number of inliers is : 81
+norm = 0.0585568
+T =    0.999487   0.0188809   0.0258553 -0.00581261
+ -0.0192925     0.99969    0.015764   0.0257079
+ -0.0255496  -0.0162547    0.999541 -0.00200065
+          0           0           0           1
+读取第433帧
+the size of pts_obj is : 49
+the number of inliers is : 49
+norm = 0.0199099
+不是关键帧
+读取第434帧
+the size of pts_obj is : 80
+the number of inliers is : 79
+norm = 0.0451862
+不是关键帧
+读取第435帧
+the size of pts_obj is : 60
+the number of inliers is : 57
+norm = 0.0542284
+T =     0.999399   -0.0259666    0.0229685  0.000165159
+   0.0260253     0.999659  -0.00225826    0.0229399
+   -0.022902   0.00285466     0.999734 -0.000579668
+           0            0            0            1
+读取第436帧
+the size of pts_obj is : 123
+the number of inliers is : 119
+norm = 0.0197292
+不是关键帧
+读取第437帧
+the size of pts_obj is : 123
+the number of inliers is : 119
+norm = 0.0399562
+不是关键帧
+读取第438帧
+the size of pts_obj is : 118
+the number of inliers is : 112
+norm = 0.0552844
+T =    0.999573   0.0157528  -0.0245915  0.00082623
+ -0.0155432    0.999841  0.00869155  -0.0246618
+  0.0247245 -0.00830561     0.99966 -0.00359387
+          0           0           0           1
+读取第439帧
+the size of pts_obj is : 125
+the number of inliers is : 124
+norm = 0.0234421
+不是关键帧
+读取第440帧
+the size of pts_obj is : 105
+the number of inliers is : 104
+norm = 0.0355962
+不是关键帧
+读取第441帧
+the size of pts_obj is : 51
+the number of inliers is : 48
+norm = 0.0442129
+不是关键帧
+读取第442帧
+the size of pts_obj is : 103
+the number of inliers is : 98
+norm = 0.0456379
+不是关键帧
+读取第443帧
+the size of pts_obj is : 66
+the number of inliers is : 61
+norm = 0.0456071
+不是关键帧
+读取第444帧
+the size of pts_obj is : 109
+the number of inliers is : 106
+norm = 0.0499425
+不是关键帧
+读取第445帧
+the size of pts_obj is : 61
+the number of inliers is : 52
+norm = 0.0890187
+T =     0.999384    -0.027852    0.0213337 -0.000654902
+   0.0284972     0.999127   -0.0305632    0.0209064
+  -0.0204638    0.0311523     0.999305   0.00152633
+           0            0            0            1
+读取第446帧
+the size of pts_obj is : 111
+the number of inliers is : 111
+norm = 0.0247254
+不是关键帧
+读取第447帧
+the size of pts_obj is : 61
+the number of inliers is : 61
+norm = 0.048838
+不是关键帧
+读取第448帧
+the size of pts_obj is : 111
+the number of inliers is : 110
+norm = 0.0500893
+T =     0.999833   0.00657244    0.0170427 -0.000281469
+ -0.00697321     0.999698    0.0235638    0.0169652
+  -0.0168827   -0.0236787     0.999577  -0.00220801
+           0            0            0            1
+读取第449帧
+the size of pts_obj is : 125
+the number of inliers is : 125
+norm = 0.0263382
+不是关键帧
+读取第450帧
+the size of pts_obj is : 95
+the number of inliers is : 95
+norm = 0.0489061
+不是关键帧
+读取第451帧
+the size of pts_obj is : 75
+the number of inliers is : 70
+norm = 0.0742932
+T =   0.998932 0.00990206 -0.0451418 0.00245558
+-0.0114259   0.999369 -0.0336252 -0.0449857
+ 0.0447803   0.034105   0.998415 0.00328945
+         0          0          0          1
+读取第452帧
+the size of pts_obj is : 90
+the number of inliers is : 90
+norm = 0.0358916
+不是关键帧
+读取第453帧
+the size of pts_obj is : 45
+the number of inliers is : 44
+norm = 0.0450463
+不是关键帧
+读取第454帧
+the size of pts_obj is : 29
+the number of inliers is : 28
+norm = 0.0527812
+T =    0.999881   0.0124528 -0.00907069 0.000416588
+ -0.0121912    0.999524   0.0283511 -0.00924666
+ 0.00941942  -0.0282371    0.999557 -0.00274736
+          0           0           0           1
+读取第455帧
+the size of pts_obj is : 134
+the number of inliers is : 132
+norm = 0.0175073
+不是关键帧
+读取第456帧
+the size of pts_obj is : 100
+the number of inliers is : 95
+norm = 0.0264218
+不是关键帧
+../data/corner/left_457.png不存在
+读取第458帧
+the size of pts_obj is : 89
+the number of inliers is : 83
+norm = 0.049661
+不是关键帧
+../data/corner/left_459.png不存在
+读取第460帧
+the size of pts_obj is : 66
+the number of inliers is : 61
+norm = 0.0502123
+T =     0.99998  0.00240303 -0.00591437  0.00152996
+-0.00237698    0.999987  0.00440685 -0.00591969
+ 0.00592489  -0.0043927    0.999973 -0.00123382
+          0           0           0           1
+读取第461帧
+the size of pts_obj is : 368
+the number of inliers is : 0
+inliers太少
+读取第462帧
+the size of pts_obj is : 83
+the number of inliers is : 0
+inliers太少
+读取第463帧
+the size of pts_obj is : 70
+the number of inliers is : 0
+inliers太少
+读取第464帧
+the size of pts_obj is : 95
+the number of inliers is : 0
+inliers太少
+读取第465帧
+the size of pts_obj is : 106
+the number of inliers is : 0
+inliers太少
+读取第466帧
+the size of pts_obj is : 19
+the number of inliers is : 0
+inliers太少
+读取第467帧
+the size of pts_obj is : 85
+the number of inliers is : 0
+inliers太少
+读取第468帧
+the size of pts_obj is : 102
+the number of inliers is : 0
+inliers太少
+读取第469帧
+the size of pts_obj is : 68
+the number of inliers is : 0
+inliers太少
+读取第470帧
+the size of pts_obj is : 56
+the number of inliers is : 0
+inliers太少
+读取第471帧
+the size of pts_obj is : 60
+the number of inliers is : 0
+inliers太少
+读取第472帧
+the size of pts_obj is : 60
+the number of inliers is : 0
+inliers太少
+读取第473帧
+the size of pts_obj is : 71
+the number of inliers is : 0
+inliers太少
+读取第474帧
+the size of pts_obj is : 84
+the number of inliers is : 0
+inliers太少
+读取第475帧
+the size of pts_obj is : 63
+the number of inliers is : 6
+norm = 10.0775
+两帧距离太远
+读取第476帧
+the size of pts_obj is : 74
+the number of inliers is : 0
+inliers太少
+读取第477帧
+the size of pts_obj is : 71
+the number of inliers is : 0
+inliers太少
+读取第478帧
+the size of pts_obj is : 64
+the number of inliers is : 0
+inliers太少
+读取第479帧
+the size of pts_obj is : 69
+the number of inliers is : 0
+inliers太少
+读取第480帧
+the size of pts_obj is : 42
+the number of inliers is : 0
+inliers太少
+读取第481帧
+the size of pts_obj is : 92
+the number of inliers is : 0
+inliers太少
+读取第482帧
+the size of pts_obj is : 65
+the number of inliers is : 0
+inliers太少
+读取第483帧
+the size of pts_obj is : 65
+the number of inliers is : 0
+inliers太少
+读取第484帧
+the size of pts_obj is : 65
+the number of inliers is : 5
+norm = 0.184811
+T =   0.999497 -0.0213164  0.0234608 -0.0144934
+ 0.0208097   0.999549  0.0216321  0.0236919
+-0.0239114  -0.021133   0.999491 -0.0893266
+         0          0          0          1
+读取第485帧
+the size of pts_obj is : 332
+the number of inliers is : 0
+inliers太少
+读取第486帧
+the size of pts_obj is : 79
+the number of inliers is : 0
+inliers太少
